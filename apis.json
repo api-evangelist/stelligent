@@ -1,0 +1,57 @@
+{
+    "name": "Stelligent",
+    "description": "Stelligent is a technology services company that provides DevOps Automation on the Amazon Web Services (AWS) cloud. We embed with your teams to achieve these and more aims, and do so in a way that leaves all the intellectual property safe with you. How...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28746-stelligent-com.jpg",
+    "tags": [
+        "have api",
+        "isp",
+        "orchestration"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stelligent\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stelligent",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28746-stelligent-com.jpg",
+            "humanURL": "https:\/\/stelligent.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stelligent-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/stelligent.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/stelligent"
+        },
+        {
+            "type": "Email",
+            "url": "info@stelligent.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/stelligent"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Stelligent"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/stelligent.com"
+        }
+    ]
+}
